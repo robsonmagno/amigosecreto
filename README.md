@@ -1,4 +1,4 @@
-HelloWorld
+#Amigo Secreto
 ==========
 
-HelloWorld
+Aplicativo para sorteio de amigo secreto
